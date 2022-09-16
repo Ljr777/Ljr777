@@ -6,6 +6,10 @@
 - ⚡ Fun fact: WAGMI
 
 <!--START_SECTION:activity-->
+1. ❌ Reopened PR [#1753](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1753) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❌ Closed PR [#1753](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1753) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#1753](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1753) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 💪 Opened PR [#1753](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1753) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ljr777&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
